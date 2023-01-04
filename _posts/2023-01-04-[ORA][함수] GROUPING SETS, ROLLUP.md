@@ -1,5 +1,5 @@
 ---
-title: [ORA][함수] GROUPING SETS, ROLLUP
+title: "[ORA][함수] GROUPING SETS, ROLLUP"
 author: YJ Choe
 date: 2023-01-04 18:37:00 +0900
 categories: [ORACLE, 함수]
