@@ -1,5 +1,5 @@
 ---
-title: 
+title: [ORA][함수] GROUPING SETS, ROLLUP
 author: YJ Choe
 date: 2023-01-04 18:37:00 +0900
 categories: [ORACLE, 함수]
@@ -13,7 +13,6 @@ mermaid: true
 ## GROUPING SETS 와 ROLLUP 비교  (+ GROUPING_ID)
 
 차이점 : 소계합계를 구할 때 GROUPING SETS가 더 유연하게 내가 원하는 그룹만 추출할 수 있다.
-
 
 ### 1. GROUPING SETS
 
