@@ -8,7 +8,7 @@ math: true
 mermaid: true
 ---
 
-![img1](/assets/img/post/2023-01-04-[함수] GROUPING SETS, ROLLUP.jpeg)
+![img1](/assets/img/post/20230104_ORA_01.png)
 
 ## GROUPING SETS 와 ROLLUP 비교  (+ GROUPING_ID)
 
@@ -41,7 +41,7 @@ ORDER BY CASE WHEN ENAME = '합계' THEN 3
               WHEN ENAME IS NOT NULL THEN 1
          END, ENAME, A.JOB
 ```
-
+![img2](/assets/img/post/20230104_ORA_02.png)
 
 ### 2. ROLLUP
 
@@ -69,5 +69,5 @@ FROM S_MGA.EMP A
 GROUP BY ROLLUP(JOB, ENAME) -- (JOB,ENAME), (JOB), (전체)의 소계 합계 
 ORDER BY A.ENAME, A.JOB
 ```
-
+![img3](/assets/img/post/20230104_ORA_02.png)
     
