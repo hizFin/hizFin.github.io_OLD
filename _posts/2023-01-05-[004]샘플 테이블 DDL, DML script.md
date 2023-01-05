@@ -9,7 +9,7 @@ math: true
 mermaid: true
 ---
 
-![img1](/assets/img/post/003_01.png)
+![img1](/assets/img/post/004_01.png)
 
 ## 계정생성
 ```sql
