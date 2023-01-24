@@ -4,7 +4,7 @@ title: "[ORA][샘플] 샘플 테이블 DDL, DML script"
 author: YJ Choe
 date: 2023-01-05 20:37:00 +0900
 categories: [ORACLE, 샘플]
-tags: [study, oracle, 샘플, 샘플테이블, DDL, DML]
+tags: [study, oracle, 샘플, 샘플테이블, ddl, dml]
 math: true
 mermaid: true
 ---

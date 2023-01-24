@@ -2,7 +2,7 @@
   The common styles
 */
 @import "//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css";
-@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500&display=swap";
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
