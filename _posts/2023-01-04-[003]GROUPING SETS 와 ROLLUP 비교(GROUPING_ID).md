@@ -10,7 +10,7 @@ math: true
 mermaid: true
 ---
 
-![img1](003_01.png)
+![img1](003_01.png){: width="333"}
 
 ## GROUPING SETS 와 ROLLUP 비교  (+ GROUPING_ID)
 
