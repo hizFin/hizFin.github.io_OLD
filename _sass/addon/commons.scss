@@ -42,7 +42,7 @@ body {
 h1 {
   @extend %heading;
 
-  font-size: 1.9rem;
+  font-size: 1.5rem;
 }
 
 h2 {
@@ -50,7 +50,7 @@ h2 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 h3 {
@@ -58,7 +58,7 @@ h3 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.2rem;
+  font-size: 1.15rem;
 }
 
 h4 {
@@ -66,7 +66,7 @@ h4 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.15rem;
+  font-size: 1.0rem;
 }
 
 h5 {
@@ -74,7 +74,7 @@ h5 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 a {
@@ -425,7 +425,7 @@ img[data-src] {
 }
 
 .post-meta {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   word-spacing: 1px;
 
   a {
@@ -1517,7 +1517,7 @@ $sidebar-display: "sidebar-display";
   }
 
   .post-content {
-    font-size: 1.03rem;
+    font-size: 0.85rem;
   }
 
   footer {
