@@ -1,7 +1,8 @@
 /*
   The common styles
 */
-
+@import "//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css";
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap";
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
@@ -32,7 +33,7 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: "Source Sans Pro", "Microsoft Yahei", sans-serif;
+  font-family: "Noto Sans KR", "Hack", "Source Sans Pro", "Microsoft Yahei", sans-serif;
   line-height: 1.75;
 }
 

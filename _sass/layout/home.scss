@@ -1,10 +1,12 @@
 /*
   Style for Homepage
 */
+@import "//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css";
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap";
 
 .pagination {
   color: var(--btn-patinator-text-color);
-  font-family: Lato, sans-serif;
+  font-family: "Noto Sans KR", "Hack", Lato, sans-serif;
 
   a:hover {
     text-decoration: none;

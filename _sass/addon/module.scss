@@ -3,11 +3,13 @@
 */
 
 /* ---------- scss placeholder --------- */
+@import "//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack.css";
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap";
 
 %heading {
   color: var(--heading-color);
   font-weight: 400;
-  font-family: Lato, "Microsoft Yahei", sans-serif;
+  font-family: "Noto Sans KR", "Hack", Lato, "Microsoft Yahei", sans-serif;
 }
 
 %section {
