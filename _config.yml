@@ -19,12 +19,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 블로그                         # the main title
+title: hizFin 저장소                         # the main title
 
-tagline: 블로그 입니다   # it will display as the sub-title
+tagline: hizFin 저장소   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  블로그 입니다2
+  hizFin 저장소
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hizFin.github.io'
