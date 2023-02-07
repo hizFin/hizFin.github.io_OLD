@@ -1,0 +1,11 @@
+---
+permalink: /robots.txt
+# The robots rules
+---
+
+User-agent: *
+
+Allow: /
+Disallow: /norobots/
+
+Sitemap: https://hizfin.github.io/sitemap.xml
