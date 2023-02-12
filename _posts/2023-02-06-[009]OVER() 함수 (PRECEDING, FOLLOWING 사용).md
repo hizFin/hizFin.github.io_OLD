@@ -51,7 +51,7 @@ PRECEDING, FOLLOWING을 사용하여 range(row 또는 기간)를 설정할 수 �
 
 조건
 CASE1(NEW_SAL_BY_ROW)   : 본인보다 먼저 고용된 인원 2명의 급여를 비교하여 가장 최댓값으로 산정(직업별) 
-CASE2(NEW_SAL_BY_MONTH) : 본인보다 24개월 고용된 인원의 급여를 비교하여 가장 최댓값으로 산정(직업별)
+CASE2(NEW_SAL_BY_MONTH) : 본인보다 24개월 먼저 고용된 인원의 급여를 비교하여 가장 최댓값으로 산정(직업별)
 
 */
 
