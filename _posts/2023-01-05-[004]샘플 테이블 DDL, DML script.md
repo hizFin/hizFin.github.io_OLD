@@ -3,7 +3,7 @@
 title: "[Oracle] 샘플 테이블 DDL, DML script"
 author: YJ Choe
 date: 2023-01-05 20:37:00 +0900
-categories: [Oracle, 샘플]
+categories: [Sql, Oracle]
 tags: [study, oracle, 샘플, 샘플테이블, ddl, dml]
 math: true
 mermaid: true

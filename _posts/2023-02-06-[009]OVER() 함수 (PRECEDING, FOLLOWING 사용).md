@@ -3,7 +3,7 @@
 title: "[Sql] OVER() 함수 (PRECEDING, FOLLOWING 사용))"
 author: YJ Choe
 date: 2023-02-06 22:00:00 +0900
-categories: [Sql, 함수]
+categories: [Sql]
 tags: [sql, oracle, postgresql, 함수, preceding, following, over]
 img_path : /assets/img/post/
 #math: true

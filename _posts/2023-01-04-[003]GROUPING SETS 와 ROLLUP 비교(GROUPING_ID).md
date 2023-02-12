@@ -3,7 +3,7 @@
 title: "[Oracle] GROUPING SETS 와 ROLLUP 비교 (+ GROUPING_ID)"
 author: YJ Choe
 date: 2023-01-04 18:37:00 +0900
-categories: [Oracle, 함수]
+categories: [Sql, Oracle]
 tags: [study, oracle, 함수, grouping sets, rollup, grouping_id]
 img_path : /assets/img/post/
 math: true
